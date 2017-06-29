@@ -7,34 +7,21 @@ in addition to a deep interest and education of psychology and behavior.
 **OBJECTIVE:** Contribute my knowledge of smart practices and unique ideas amoung a mulitidisciplinery
 team to create efficient products while designing for an easy and engaging User Experience.
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Everbank
+Digital Designer - Current
 
-```markdown
-Syntax highlighted code block
+Web.com
+User Experience Designer - 1 year 6 months 
+As UX Designer, I collaborate and coordinate with product owners, project managers and development teams to cultivate and realize design goals. With proficiency in Adobe CC programs, Sketch, Balstmiq, Proto IO, Invision, and application of information achitecture, prototyping, and user testing; I strive to deliver a unique, simple and intuitive user experience.
 
-# Header 1
-## Header 2
-### Header 3
+Modifications Specialist Tier II - 1 year 3 months
+Working as a Modifications Specialist, I wore many hats. As small businesses grew, I would work with clients on fine tuning their website design, content, SEO  and web presence, as well as redesigning their current website by  providing more modern, content driven, and responsive designs. Being able to confer one on one with clients allowed me to develop a trusting and unified working relationship.
 
-- Bulleted
-- List
+Web Designer - 11 months
+As a web designer at Web.com , I was responsible for the initial website design based on the client requirements, their iinterview results, and  industry standards.
 
-1. Numbered
-2. List
+Graphic Designer/Project Manager - 1 year 5 months
+As Graphic Designer and MultiMedia Marketing Solutions Coordinator, I created Marketing Campaigns to engage clients and their clientelle to interact and ultimately inflate their online presence and entice a wider audience.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pixelgirl74/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
