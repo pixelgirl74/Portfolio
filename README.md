@@ -4,7 +4,7 @@ Passionate about Digital Media Communication and Human Interactions, User-Center
 Coming from a diverse background of Graphic and Web Design, and Social Media Marketing
 in addition to a deep interest and education of psychology and behavior.
 
-OBJECTIVE: Contribute my knowledge of smart practices and unique ideas amoung a mulitidisciplinery
+**OBJECTIVE:** Contribute my knowledge of smart practices and unique ideas amoung a mulitidisciplinery
 team to create efficient products while designing for an easy and engaging User Experience.
 
 ### Markdown
