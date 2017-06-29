@@ -1,8 +1,11 @@
 ## Hi! I'm Cindy
 
-You can use the [editor on GitHub](https://github.com/pixelgirl74/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Passionate about Digital Media Communication and Human Interactions, User-Centered Design
+Coming from a diverse background of Graphic and Web Design, and Social Media Marketing
+in addition to a deep interest and education of psychology and behavior.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+OBJECTIVE: Contribute my knowledge of smart practices and unique ideas amoung a mulitidisciplinery
+team to create efficient products while designing for an easy and engaging User Experience.
 
 ### Markdown
 
