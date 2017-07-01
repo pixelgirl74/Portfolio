@@ -9,7 +9,7 @@ team to create efficient products while designing for an easy and engaging User 
 
 ### Experience
 
-###Everbank
+### Everbank
 Digital Designer - Current
 
 ### Web.com
